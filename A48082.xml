@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from the Arch-Bishops and Bishops to the King's most excellent majesty</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48082</idno><idno type="EEBO-CITATION">7940331</idno>
+  <idno type="VID">40567</idno>
+  <idno type="EEBO-PROQUEST">2248540256</idno>
+  
+            <idno type="STC">Wing L1513A</idno>
+            <idno type="STC">ESTC R24002</idno>
+            <idno type="OCLC">07940331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48082)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1209:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from the Arch-Bishops and Bishops to the King's most excellent majesty</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh?] :</pubPlace>
+                  <date>[1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Copy imperfect: pages torn with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>With: His Majesties most gracious answer to the letter from the Arch-Bishops and Bishops.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:40567:1"/>
+            <head>A LETTER From the Arch-bishops and Bishops, to the King's most Excellent <hi>Majesty.</hi>
+            </head>
+            <opener>May it Please Your most Sacred Majesty,</opener>
+            <p>WE prostrate our selves to pay our most Devote Thanks and Adorati<g ref="char:EOLhyphen"/>on to the Soveraign Majesty of Heaven and Earth, for preserving Your Sacred Life and Person, so frequently exposed to the greatest hazards, and as often delivered, and You miraculously prosper<g ref="char:EOLhyphen"/>ed with Glory and Victory, in Defence of the Rights and Honour of Your Maje<g ref="char:EOLhyphen"/>sties August Brother, and of these Kingdoms; and that by his Merciful Good<g ref="char:EOLhyphen"/>ness, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Madness of unreasonable men, have been stilled and calmed; and Your Majesty, as the Dar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> p<gap reason="illegible" resp="#keyers" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ly s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted on the Thrones of Your Royal Ancestors, whose Long, Illustrious, and Unparallel<g ref="char:EOLhyphen"/>led Line, is the greatest glory of this Your Antient Kingdom.</p>
+            <p>We pay our most humble Gratitude to Your Majesty, for the Repeated Assu<g ref="char:EOLhyphen"/>rances of Your Royal Protection to our National Church and Religion, as the Laws have Established them; Which are very suitable to the Gracious Counte<g ref="char:EOLhyphen"/>nance, Encouragement and Protection Your Majesty was pleased to afford to our Church and Order, whilst we were happy in Your Presence amongst us.</p>
+            <p>We Magnifie the Divine Mercy in blessing Your Majesty with a SON, and us with a PRINCE, whom we pray Heaven may bless and preserve to sway Your Royal Scepters after You, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us he may Inherit with Your Dominions, the Illustrious and Heroick Vertues of his August and most Serene Parents.</p>
+            <p>We are amazed to hear of the Danger of an Invasion from <hi>Holland,</hi> which ex<g ref="char:EOLhyphen"/>cites our Prayers for an universal Repentance to all Orders of Men, that God may yet spare his People, Preserve Your Royal Person, and prevent the Effusion of Christian Blood, and to give such success to Your Majesties Arms, that all who Invade Your Majesties Just and Undoubted Rights, and Disturb or Interrupt the Peace of Your Realms, may be Disappointed and Clothed with shame, so that on Your Royal Head the Crown may still flourish.</p>
+            <p>As by the Grace of God we shall preserve in our selves a firm and unshaken Loy<g ref="char:EOLhyphen"/>alty, so we shall be careful and zealo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o promote in all Your Subjects an Inte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a fast Alleg<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majesty, as an Essential Part of their Religion, and of the Glory of our Holy Profession; not doubting but that God in his great Mercy, who hath so often preserved and delivered Your Majesty, will still preserve and deliver You. by giving You the Hearts of Your Subjects, and the Necks of Your Enemies. So pray we, who in all Humility, are,</p>
+            <closer>
+               <signed>May it please Your Most Sacred Majesty, Your Majesties most Humble, most Faithful, and most Obedient Subjects and Servants,
+<list>
+                     <item>
+                        <hi>Arth: St. And:</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Glasgow.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexr: Edinburgen:</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Gallovidien:</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Dunkelden:</hi>
+                     </item>
+                     <item>
+                        <hi>Geo: Abredonen:</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Moravien.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja: Rossen:</hi>
+                     </item>
+                     <item>
+                        <hi>Ja: Brichenen:</hi>
+                     </item>
+                     <item>
+                        <hi>Ro: Dumblanen:</hi>
+                     </item>
+                     <item>
+                        <hi>Arch: Sodoren:</hi>
+                     </item>
+                     <item>
+                        <hi>And: Orcaden:</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>Edinburgh. <date>Nov. <hi>3. 1688.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:40567:2"/>
+            <head>His <hi>Majesties</hi> most Gracious ANSVVER <hi>To the LETTER from the Arch-bishops and Bishops.</hi> To Our Right Trusty and Right welbeloved Counsellors, the Lords Arch-bishops, and our right Trusty and VVelbeloved, the Bishops of Our Antient Kingdom of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>RIght Trusty and Right welbeloved Counsellors, and Right <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd welbeloved, We Greet you well; We have received your most dutiful Letter, of the third day of <hi>November,</hi> in which We are glad to see, that you are far from being of the number of those Spiritual Lords, whom the Prince of <hi>Orange</hi> pretends to have been Invited by; As VVe have likewise had repeated Assurances from all the Bishops of <hi>England,</hi> of their Innocency in that, and Duty to Us: We have now thought fit by this to tell you, how sensible VVe are of your Zeal for Our Service and for the dutiful Expressions of your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oya<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty to us, in a tim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when all Arts are used to Seduce Our Subjects from their Duty to Us. VVe Do likewise take Notice of your Diligence in your Du<g ref="char:EOLhyphen"/>ty, by your Inculcating to those under your Charge, these Prin<g ref="char:EOLhyphen"/>ciples which have always been Owned, Taught and Published by that Protestant, Loyal Church, you are truly Members of: VVe Do assure you of Our Royal Protection to you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Religion, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Clergy, and that VVe will be careful of your Concerns, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1+ paragraphs">
+                  <desc>〈1… paragraphs〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
